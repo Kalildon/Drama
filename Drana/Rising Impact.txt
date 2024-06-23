@@ -1,7 +1,7 @@
 <item>
 
 <title>[B][COLOR lime]●[/COLOR][COLOR gold]Rising Impact -[/COLOR][COLOR white]Episódios 1 -[/COLOR][COLOR red]Leg[/COLOR][/B]</title>
-<link>https://animeflix.blog/Animes/Letra-R/Rising%20Impact/01-.mp4</link>
+<link>https://animeflix.blog/Animes/Letra-R/Rising%20Impact/01.mp4</link>
 <thumbnail>https://animesonline.cloud/wp-content/uploads/2024/06/zGxp7t9fvxIxEDqB7V48bFgplP7-200x300.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/bNzH6RMrK9L7kOyX9ou9CeHieDU.jpg</fanart>
 <info>[B][COLOR lime]1 -[/COLOR][COLOR white]Temporada -[/COLOR][COLOR yellow][COLOR lime]Sinopse:[/COLOR]Após ter seu dom para o golfe descoberto por uma profissional, um garoto embarca em uma jornada para se tornar o melhor jogador do mundo.[/COLOR][/B]</info>
