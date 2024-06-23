@@ -1,116 +1,118 @@
 <item>
 
-<title>[B][COLOR lime]●[/COLOR][COLOR gold]Rising Impact[/COLOR][COLOR Orange]Episódios- 1-[/COLOR][COLOR red]Leg[/COLOR][/B]</title>
+<title>[B][COLOR lime]●[/COLOR][COLOR gold]Rising Impact[/COLOR][COLOR orange]Episódios 1 -[/COLOR][COLOR red]Leg[/COLOR][/B]</title>
 <link>https://animeflix.blog/Animes/Letra-R/Rising%20Impact/01-.mp4</link>
 <thumbnail>https://animesonline.cloud/wp-content/uploads/2024/06/zGxp7t9fvxIxEDqB7V48bFgplP7-200x300.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/bNzH6RMrK9L7kOyX9ou9CeHieDU.jpg</fanart>
-<info>[B][COLOR lime]1-[/COLOR][COLOR Orange]Temporada-[/COLOR][COLOR yellow][COLOR lime]Sinopse:[/COLOR]Após ter seu dom para o golfe descoberto por uma profissional, um garoto embarca em uma jornada para se tornar o melhor jogador do mundo.[/COLOR][/B]</info>
+<info>[B][COLOR lime]1 -[/COLOR][COLOR orange]Temporada -[/COLOR][COLOR yellow][COLOR lime]Sinopse:[/COLOR]Após ter seu dom para o golfe descoberto por uma profissional, um garoto embarca em uma jornada para se tornar o melhor jogador do mundo.[/COLOR][/B]</info>
 
 </item>
 #
 <item>
 
-<title>[B][COLOR lime]●[/COLOR][COLOR gold]Rising Impact[/COLOR][COLOR Orange]Episódios- 2-[/COLOR][COLOR red]Leg[/COLOR][/B]</title>
+<title>[B][COLOR lime]●[/COLOR][COLOR gold]Rising Impact[/COLOR][COLOR orange]Episódios 2 -[/COLOR][COLOR red]Leg[/COLOR][/B]</title>
 <link>https://animeflix.blog/Animes/Letra-R/Rising%20Impact/02.mp4</link>
 <thumbnail>https://animesonline.cloud/wp-content/uploads/2024/06/zGxp7t9fvxIxEDqB7V48bFgplP7-200x300.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/bNzH6RMrK9L7kOyX9ou9CeHieDU.jpg</fanart>
-<info>[B][COLOR lime]1--[/COLOR][COLOR Orange]Temporada-[/COLOR][COLOR yellow][COLOR lime]Sinopse:[/COLOR]Após ter seu dom para o golfe descoberto por uma profissional, um garoto embarca em uma jornada para se tornar o melhor jogador do mundo.[/COLOR][/B]</info>
+<info>[B][COLOR lime]1 -[/COLOR][COLOR orange]Temporada -[/COLOR][COLOR yellow][COLOR lime]Sinopse:[/COLOR]Após ter seu dom para o golfe descoberto por uma profissional, um garoto embarca em uma jornada para se tornar o melhor jogador do mundo.[/COLOR][/B]</info>
 
 </item>
 #
 <item>
 
-<title>[B][COLOR lime]●[/COLOR][COLOR gold]Rising Impact[/COLOR][COLOR Orange]Episódios- 3-[/COLOR][COLOR red]Leg[/COLOR][/B]</title>
+<title>[B][COLOR lime]●[/COLOR][COLOR gold]Rising Impact[/COLOR][COLOR orange]Episódios 3 -[/COLOR][COLOR red]Leg[/COLOR][/B]</title>
 <link>https://animeflix.blog/Animes/Letra-R/Rising%20Impact/03.mp4</link>
 <thumbnail>https://animesonline.cloud/wp-content/uploads/2024/06/zGxp7t9fvxIxEDqB7V48bFgplP7-200x300.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/bNzH6RMrK9L7kOyX9ou9CeHieDU.jpg</fanart>
-<info>[B][COLOR lime]1-[/COLOR][COLOR Orange]Temporada-[/COLOR][COLOR yellow][COLOR lime]Sinopse:[/COLOR]Após ter seu dom para o golfe descoberto por uma profissional, um garoto embarca em uma jornada para se tornar o melhor jogador do mundo.[/COLOR][/B]</info>
+<info>[B][COLOR lime]1 -[/COLOR][COLOR orange]Temporada-[/COLOR][COLOR yellow][COLOR lime]Sinopse:[/COLOR]Após ter seu dom para o golfe descoberto por uma profissional, um garoto embarca em uma jornada para se tornar o melhor jogador do mundo.[/COLOR][/B]</info>
 
 </item>
 #
 <item>
 
-<title>[B][COLOR lime]●[/COLOR][COLOR gold]Rising Impact[/COLOR][COLOR Orange]Episódios- 4-[/COLOR][COLOR red]Leg[/COLOR][/B]</title>
+<title>[B][COLOR lime]●[/COLOR][COLOR gold]Rising Impact[/COLOR][COLOR orange]Episódios 4 -[/COLOR][COLOR red]Leg[/COLOR][/B]</title>
 <link>https://animeflix.blog/Animes/Letra-R/Rising%20Impact/04.mp4</link>
 <thumbnail>https://animesonline.cloud/wp-content/uploads/2024/06/zGxp7t9fvxIxEDqB7V48bFgplP7-200x300.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/bNzH6RMrK9L7kOyX9ou9CeHieDU.jpg</fanart>
-<info>[B][COLOR lime]1-[/COLOR][COLOR Orange]Temporada-[/COLOR][COLOR yellow][COLOR lime]Sinopse:[/COLOR]Após ter seu dom para o golfe descoberto por uma profissional, um garoto embarca em uma jornada para se tornar o melhor jogador do mundo.[/COLOR][/B]</info>
+<info>[B][COLOR lime]1 -[/COLOR][COLOR orange]Temporada -[/COLOR][COLOR yellow][COLOR lime]Sinopse:[/COLOR]Após ter seu dom para o golfe descoberto por uma profissional, um garoto embarca em uma jornada para se tornar o melhor jogador do mundo.[/COLOR][/B]</info>
 
 </item>
 #
 <item>
 
-<title>[B][COLOR lime]●[/COLOR][COLOR gold]Rising Impact[/COLOR][COLOR Orange]Episódios- 5-[/COLOR][COLOR red]Leg[/COLOR][/B]</title>
+<title>[B][COLOR lime]●[/COLOR][COLOR gold]Rising Impact[/COLOR][COLOR orange]Episódios 5 -[/COLOR][COLOR red]Leg[/COLOR][/B]</title>
 <link>https://animeflix.blog/Animes/Letra-R/Rising%20Impact/05.mp4</link>
 <thumbnail>https://animesonline.cloud/wp-content/uploads/2024/06/zGxp7t9fvxIxEDqB7V48bFgplP7-200x300.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/bNzH6RMrK9L7kOyX9ou9CeHieDU.jpg</fanart>
-<info>[B][COLOR lime]1-[/COLOR][COLOR Orange]Temporada-[/COLOR][COLOR yellow][COLOR lime]Sinopse:[/COLOR]Após ter seu dom para o golfe descoberto por uma profissional, um garoto embarca em uma jornada para se tornar o melhor jogador do mundo.[/COLOR][/B]</info>
+<info>[B][COLOR lime]1 -[/COLOR][COLOR orange]Temporada -[/COLOR][COLOR yellow][COLOR lime]Sinopse:[/COLOR]Após ter seu dom para o golfe descoberto por uma profissional, um garoto embarca em uma jornada para se tornar o melhor jogador do mundo.[/COLOR][/B]</info>
 
 </item>
 #
 <item>
 
-<title>[B][COLOR lime]●[/COLOR][COLOR gold]Rising Impact[/COLOR][COLOR Orange]Episódios- 6-[/COLOR][COLOR red]Leg[/COLOR][/B]</title>
+<title>[B][COLOR lime]●[/COLOR][COLOR gold]Rising Impact[/COLOR][COLOR orange]Episódios 6 -[/COLOR][COLOR red]Leg[/COLOR][/B]</title>
 <link>https://animeflix.blog/Animes/Letra-R/Rising%20Impact/06.mp4</link>
 <thumbnail>https://animesonline.cloud/wp-content/uploads/2024/06/zGxp7t9fvxIxEDqB7V48bFgplP7-200x300.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/bNzH6RMrK9L7kOyX9ou9CeHieDU.jpg</fanart>
-<info>[B][COLOR lime]1-[/COLOR][COLOR Orange]Temporada-[/COLOR][COLOR yellow][COLOR lime]Sinopse:[/COLOR]Após ter seu dom para o golfe descoberto por uma profissional, um garoto embarca em uma jornada para se tornar o melhor jogador do mundo.[/COLOR][/B]</info>
+<info>[B][COLOR lime]1 -[/COLOR][COLOR orange]Temporada -[/COLOR][COLOR yellow][COLOR lime]Sinopse:[/COLOR]Após ter seu dom para o golfe descoberto por uma profissional, um garoto embarca em uma jornada para se tornar o melhor jogador do mundo.[/COLOR][/B]</info>
 
 </item>
 #
 <item>
 
-<title>[B][COLOR lime]●[/COLOR][COLOR gold]Rising Impact[/COLOR][COLOR Orange]Episódios- 7-[/COLOR][COLOR red]Leg[/COLOR][/B]</title>
+<title>[B][COLOR lime]●[/COLOR][COLOR gold]Rising Impact[/COLOR][COLOR orange]Episódios- 7-[/COLOR][COLOR red]Leg[/COLOR][/B]</title>
 <link>https://animeflix.blog/Animes/Letra-R/Rising%20Impact/07.mp4</link>
 <thumbnail>https://animesonline.cloud/wp-content/uploads/2024/06/zGxp7t9fvxIxEDqB7V48bFgplP7-200x300.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/bNzH6RMrK9L7kOyX9ou9CeHieDU.jpg</fanart>
-<info>[B][COLOR lime]1-[/COLOR][COLOR Orange]Temporada-[/COLOR][COLOR yellow][COLOR lime]Sinopse:[/COLOR]Após ter seu dom para o golfe descoberto por uma profissional, um garoto embarca em uma jornada para se tornar o melhor jogador do mundo.[/COLOR][/B]</info>
+<info>[B][COLOR lime]1 -[/COLOR][COLOR orange]Temporada -[/COLOR][COLOR yellow][COLOR lime]Sinopse:[/COLOR]Após ter seu dom para o golfe descoberto por uma profissional, um garoto embarca em uma jornada para se tornar o melhor jogador do mundo.[/COLOR][/B]</info>
 
 </item>
 #
 <item>
-<title>[B][COLOR lime]●[/COLOR][COLOR gold]Rising Impact[/COLOR][COLOR Orange]Episódios- 8-[/COLOR][COLOR red]Leg[/COLOR][/B]</title>
+<title>[B][COLOR lime]●[/COLOR][COLOR gold]Rising Impact[/COLOR][COLOR orange]Episódios 8 -[/COLOR][COLOR red]Leg[/COLOR][/B]</title>
 <link>https://animeflix.blog/Animes/Letra-R/Rising%20Impact/08.mp4</link>
 <thumbnail>https://animesonline.cloud/wp-content/uploads/2024/06/zGxp7t9fvxIxEDqB7V48bFgplP7-200x300.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/bNzH6RMrK9L7kOyX9ou9CeHieDU.jpg</fanart>
-<info>[B][COLOR lime]1-[/COLOR][COLOR Orange]Temporada-[/COLOR][COLOR yellow][COLOR lime]Sinopse:[/COLOR]Após ter seu dom para o golfe descoberto por uma profissional, um garoto embarca em uma jornada para se tornar o melhor jogador do mundo.[/COLOR][/B]</info>
+<info>[B][COLOR lime]1 -[/COLOR][COLOR orange]Temporada -[/COLOR][COLOR yellow][COLOR lime]Sinopse:[/COLOR]Após ter seu dom para o golfe descoberto por uma profissional, um garoto embarca em uma jornada para se tornar o melhor jogador do mundo.[/COLOR][/B]</info>
 
 </item>
 #
 <item>
-<title>[B][COLOR lime]●[/COLOR][COLOR gold]Rising Impact[/COLOR][COLOR Orange]Episódios- 9-[/COLOR][COLOR red]Leg[/COLOR][/B]</title>
+<title>[B][COLOR lime]●[/COLOR][COLOR gold]Rising Impact[/COLOR][COLOR orange]Episódios 9 -[/COLOR][COLOR red]Leg[/COLOR][/B]</title>
 <link>https://animeflix.blog/Animes/Letra-R/Rising%20Impact/09.mp4</link>
 <thumbnail>https://animesonline.cloud/wp-content/uploads/2024/06/zGxp7t9fvxIxEDqB7V48bFgplP7-200x300.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/bNzH6RMrK9L7kOyX9ou9CeHieDU.jpg</fanart>
-<info>[B][COLOR lime]1-[/COLOR][COLOR Orange]Temporada-[/COLOR][COLOR yellow][COLOR lime]Sinopse:[/COLOR]Após ter seu dom para o golfe descoberto por uma profissional, um garoto embarca em uma jornada para se tornar o melhor jogador do mundo.[/COLOR][/B]</info>
+<info>[B][COLOR lime]1 -[/COLOR][COLOR orange]Temporada -[/COLOR][COLOR yellow][COLOR lime]Sinopse:[/COLOR]Após ter seu dom para o golfe descoberto por uma profissional, um garoto embarca em uma jornada para se tornar o melhor jogador do mundo.[/COLOR][/B]</info>
 
 </item>
 #
 <item>
 
-<title>[B][COLOR lime]●[/COLOR][COLOR gold]Rising Impact[/COLOR][COLOR Orange]Episódios- 10-[/COLOR][COLOR red]Leg[/COLOR][/B]</title>
+<title>[B][COLOR lime]●[/COLOR][COLOR gold]Rising Impact[/COLOR][COLOR orange]Episódios 10 -[/COLOR][COLOR red]Leg[/COLOR][/B]</title>
 <link>https://animeflix.blog/Animes/Letra-R/Rising%20Impact/10.mp4</link>
 <thumbnail>https://animesonline.cloud/wp-content/uploads/2024/06/zGxp7t9fvxIxEDqB7V48bFgplP7-200x300.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/bNzH6RMrK9L7kOyX9ou9CeHieDU.jpg</fanart>
-<info>[B][COLOR lime]1-[/COLOR][COLOR Orange]Temporada-[/COLOR][COLOR yellow][COLOR lime]Sinopse:[/COLOR]Após ter seu dom para o golfe descoberto por uma profissional, um garoto embarca em uma jornada para se tornar o melhor jogador do mundo.[/COLOR][/B]</info>
+<info>[B][COLOR lime]1 -[/COLOR][COLOR orange]Temporada -[/COLOR][COLOR yellow][COLOR lime]Sinopse:[/COLOR]Após ter seu dom para o golfe descoberto por uma profissional, um garoto embarca em uma jornada para se tornar o melhor jogador do mundo.[/COLOR][/B]</info>
 
 </item>
 #
 <item>
 
-<title>[B][COLOR lime]●[/COLOR][COLOR gold]Rising Impact[/COLOR][COLOR Orange]Episódios- 11-[/COLOR][COLOR red]Leg[/COLOR][/B]</title>
+<title>[B][COLOR lime]●[/COLOR][COLOR gold]Rising Impact[/COLOR][COLOR orange]Episódios 11-[/COLOR][COLOR red]Leg[/COLOR][/B]</title>
 <link>https://animeflix.blog/Animes/Letra-R/Rising%20Impact/11.mp4</link>
 <thumbnail>https://animesonline.cloud/wp-content/uploads/2024/06/zGxp7t9fvxIxEDqB7V48bFgplP7-200x300.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/bNzH6RMrK9L7kOyX9ou9CeHieDU.jpg</fanart>
-<info>[B][COLOR lime]1-[/COLOR][COLOR Orange]Temporada-[/COLOR][COLOR yellow][COLOR lime]Sinopse:[/COLOR]Após ter seu dom para o golfe descoberto por uma profissional, um garoto embarca em uma jornada para se tornar o melhor jogador do mundo.[/COLOR][/B]</info>
+<info>[B][COLOR lime]1 -[/COLOR][COLOR orange]Temporada -[/COLOR][COLOR yellow][COLOR lime]Sinopse:[/COLOR]Após ter seu dom para o golfe descoberto por uma profissional, um garoto embarca em uma jornada para se tornar o melhor jogador do mundo.[/COLOR][/B]</info>
 
+</item>
+#
 <item>
 
-<title>[B][COLOR lime]●[/COLOR][COLOR gold]Rising Impact[/COLOR][COLOR Orange]Episódios- 12-[/COLOR][COLOR red]Leg[/COLOR][/B]</title>
+<title>[B][COLOR lime]●[/COLOR][COLOR gold]Rising Impact[/COLOR][COLOR orange]Episódios 12 -[/COLOR][COLOR red]Leg[/COLOR][/B]</title>
 <link>https://animeflix.blog/Animes/Letra-R/Rising%20Impact/12.mp4</link>
 <thumbnail>https://animesonline.cloud/wp-content/uploads/2024/06/zGxp7t9fvxIxEDqB7V48bFgplP7-200x300.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/bNzH6RMrK9L7kOyX9ou9CeHieDU.jpg</fanart>
-<info>[B][COLOR lime]1-[/COLOR][COLOR Orange]Temporada-[/COLOR][COLOR yellow][COLOR lime]Sinopse:[/COLOR]Após ter seu dom para o golfe descoberto por uma profissional, um garoto embarca em uma jornada para se tornar o melhor jogador do mundo.[/COLOR][/B]</info>
+<info>[B][COLOR lime]1 -[/COLOR][COLOR orange]Temporada -[/COLOR][COLOR yellow][COLOR lime]Sinopse:[/COLOR]Após ter seu dom para o golfe descoberto por uma profissional, um garoto embarca em uma jornada para se tornar o melhor jogador do mundo.[/COLOR][/B]</info>
 
 </item>
 
